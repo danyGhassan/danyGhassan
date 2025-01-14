@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @danyGhassan
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning this ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-danyGhassan/danyGhassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ My rootme :
+  <p align="center">
+  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=danwested&gstats=show" alt="Root-Me Stats">
+</p>
